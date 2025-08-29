@@ -67,7 +67,7 @@ int main() {
 
     printf("Digite o Numero de pontos Turisticos: ")
     scanf("%d", &pontosTuristicos2);
-
+printf("digite xadrex!");
 
 
 
